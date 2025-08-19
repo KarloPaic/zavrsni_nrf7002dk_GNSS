@@ -1,0 +1,7 @@
+- id: "1050774929"
+  platform: nrf7002dk/nrf5340/cpuapp
+  serial: COM6              
+  product: J-Link           
+  runner: nrfjprog
+  connected: true
+
